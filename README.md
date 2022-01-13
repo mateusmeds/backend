@@ -1,3 +1,4 @@
+CRUD de usuários
 1. Realize o clone desse projeto
 2. Renomeie o arquivo .env.example para .env
 3. Crie um banco de dados MySQL e configure o arquivo .env com os dados do banco
